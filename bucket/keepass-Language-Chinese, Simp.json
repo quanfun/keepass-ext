@@ -13,6 +13,6 @@
         "script": "Remove-Item \"$(appdir keepass $global)\\current\\Languages\\Chinese_Simplified.lngx\""
     },
     "autoupdate": {
-        "url": "https://downloads.sourceforge.net/keepass/KeePass-$version-Chinese_Simplified.zip"
+        "url": "https://nchc.dl.sourceforge.net/project/keepass/Translations%202.x/$version/KeePass-$version-Chinese_Simplified.zip"
     }
 }
